@@ -1,0 +1,43 @@
+[
+    {
+        "nome" : "Pedro",
+        "sobrenome": "Maroto",
+        "empresa": "Nasdaq",
+        "numero": "2000",
+        "pais": "Brasil",
+        "endereco" : "rua timbó",
+        "cidade" : "São Paulo",
+        "estado" : "São Paulo",
+        "cep": "56333-999",
+        "telefone" : "839992222",
+        "email" : "pedromaroto@gmail.com" 
+    }, 
+
+    {
+        "nome" : "Paulo",
+        "sobrenome": "Amaral",
+        "empresa": "Nasa",
+        "numero": "2001",
+        "pais": "Brasil",
+        "endereco": "rua mari",
+        "cidade" : "São Pedro",
+        "estado" : "São Paulo",
+        "cep": "56333-999",
+        "telefone" : "839992222",
+        "email" : "pedroamaral@gmail.com" 
+    }, 
+
+    {
+        "nome" : "Ana",
+        "sobrenome": "Silveira",
+        "empresa": "Nasdaq",
+        "numero": "2000",
+        "pais": "Brasil",
+        "endereco": "rua maria",
+        "cidade" : "São luis",
+        "estado" : "São Paulo",
+        "cep": "56333-999",
+        "telefone" : "839992222",
+        "email" : "anasilveira@gmail.com" 
+    }
+]
