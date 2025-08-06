@@ -13,7 +13,7 @@ Este projeto simula testes completos de uma aplicação e-commerce fictícia da 
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Cypress  
 - Faker.js  
@@ -24,7 +24,7 @@ Este projeto simula testes completos de uma aplicação e-commerce fictícia da 
 
 ---
 
-## 🗂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```bash
 cypress/
