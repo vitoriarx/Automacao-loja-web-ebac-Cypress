@@ -58,10 +58,10 @@ cypress/
 
 ---
 ## Como Executar Localmente
-git clone https://github.com/vitoriarx/Automacao-loja-web-ebac-Cypress
-cd Automacao-loja-web-ebac-Cypress
-npm install
-npx cypress open
+* git clone https://github.com/vitoriarx/Automacao-loja-web-ebac-Cypress
+* cd Automacao-loja-web-ebac-Cypress
+* npm install
+* npx cypress open
 
 ---
 ## Aprendizados e Práticas Aplicadas
