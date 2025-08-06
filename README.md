@@ -60,10 +60,10 @@ cypress/
 ## Como Executar Localmente
 ```bash
 # Clone o projeto
-git clone https://github.com/vitoriarx/Cypress-teste-API.git
+git clone https://github.com/vitoriarx/Automacao-loja-web-ebac-Cypress
 
 # Acesse a pasta
-cd Cypress-teste-API
+cd Automacao-loja-web-ebac-Cypress
 
 # Instale as dependências
 npm install
